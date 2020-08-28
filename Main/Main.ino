@@ -7,7 +7,7 @@
 #include <Servo.h>
 
 
-float freq = 0.9;
+float freq = 0.7;
 
 float time = 1 / freq;
 
